@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>picgenix</id>
+    <version>1.0.1</version>
+    <packageSourceUrl>https://github.com/razorlinestudios/chocolatey-packages/tree/main/picgenix</packageSourceUrl>
+    <owners>razorlinestudios</owners>
+    <title>PicGenix</title>
+    <authors>Razorline Studios Ltd</authors>
+    <projectUrl>https://razorlinestudios.co.uk/app.php?slug=picgenix</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/razorlinestudios/chocolatey-packages@main/icons/picgenix.png</iconUrl>
+    <copyright>Copyright (c) 2026 Razorline Studios Ltd</copyright>
+    <licenseUrl>https://razorlinestudios.co.uk/licence.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
+    <docsUrl>https://razorlinestudios.co.uk/app.php?slug=picgenix</docsUrl>
+    <tags>picgenix ai-art stable-diffusion image-generation offline creative gpu</tags>
+    <summary>Private generative AI image creation studio running directly on Windows PC hardware.</summary>
+    <description><![CDATA[PicGenix creates stunning high-resolution artwork and renders locally using SDXL-Lightning and FLUX pipelines. Zero cloud fees, zero subscriptions, complete privacy.]]></description>
+    <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=picgenix</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
