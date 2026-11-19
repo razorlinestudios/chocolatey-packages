@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>rigcheckpro</id>
+    <version>2.1.1</version>
+    <packageSourceUrl>https://github.com/razorlinestudios/chocolatey-packages/tree/main/rigcheckpro</packageSourceUrl>
+    <owners>razorlinestudios</owners>
+    <title>RigCheck Pro</title>
+    <authors>Razorline Studios Ltd</authors>
+    <projectUrl>https://razorlinestudios.co.uk/app.php?slug=rigcheckpro</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/razorlinestudios/chocolatey-packages@main/icons/rigcheckpro.png</iconUrl>
+    <copyright>Copyright (c) 2026 Razorline Studios Ltd</copyright>
+    <licenseUrl>https://razorlinestudios.co.uk/licence.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
+    <docsUrl>https://razorlinestudios.co.uk/app.php?slug=rigcheckpro</docsUrl>
+    <tags>rigcheckpro diagnostics stress-test burnin benchmark hardware repair technician</tags>
+    <summary>Commercial PC hardware diagnostics for IT technicians and repair workshops with self-checking burn-in tests and branded customer reports.</summary>
+    <description><![CDATA[RigCheck Pro is an industrial hardware diagnostic suite for repair workshops and technicians. Gives the likely cause in plain English with evidence and confidence levels. CPU, graphics card, graphics memory and RAM stress tests with automatic thermal alerts. Generates branded customer certificates before and after repair.]]></description>
+    <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=rigcheckpro</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
