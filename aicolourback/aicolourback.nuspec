@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>aicolourback</id>
+    <version>1.0.1</version>
+    <packageSourceUrl>https://github.com/razorlinestudios/chocolatey-packages/tree/main/aicolourback</packageSourceUrl>
+    <owners>razorlinestudios</owners>
+    <title>AI ColourBack</title>
+    <authors>Razorline Studios Ltd</authors>
+    <projectUrl>https://razorlinestudios.co.uk/app.php?slug=colourback</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/razorlinestudios/chocolatey-packages@main/icons/aicolourback.png</iconUrl>
+    <copyright>Copyright (c) 2026 Razorline Studios Ltd</copyright>
+    <licenseUrl>https://razorlinestudios.co.uk/licence.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
+    <docsUrl>https://razorlinestudios.co.uk/app.php?slug=colourback</docsUrl>
+    <tags>aicolourback photo-colorization restoration neural ai vintage photography</tags>
+    <summary>Restore vintage family memories and historic photographs with neural black-and-white colorization running locally.</summary>
+    <description><![CDATA[AI ColourBack brings old black-and-white photos to life with DDColor neural networks. Runs 100% locally on your PC hardware without cloud uploads, per-photo fees, or privacy risk. Features multiple historic colour palettes and noise reduction.]]></description>
+    <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=colourback</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
