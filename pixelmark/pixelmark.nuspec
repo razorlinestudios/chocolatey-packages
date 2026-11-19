@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>pixelmark</id>
+    <version>1.0.1</version>
+    <packageSourceUrl>https://github.com/razorlinestudios/chocolatey-packages/tree/main/pixelmark</packageSourceUrl>
+    <owners>razorlinestudios</owners>
+    <title>PixelMark</title>
+    <authors>Razorline Studios Ltd</authors>
+    <projectUrl>https://razorlinestudios.co.uk/app.php?slug=pixelmark</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/razorlinestudios/chocolatey-packages@main/icons/pixelmark.png</iconUrl>
+    <copyright>Copyright (c) 2026 Razorline Studios Ltd</copyright>
+    <licenseUrl>https://razorlinestudios.co.uk/licence.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
+    <docsUrl>https://razorlinestudios.co.uk/app.php?slug=pixelmark</docsUrl>
+    <tags>pixelmark watermark photo batch branding copyright pdf privacy</tags>
+    <summary>Design, apply and batch-export watermarks on photos and PDFs, with smart placement and a watermark protection score.</summary>
+    <description><![CDATA[PixelMark batch watermarks whole folders of photos and multi-page PDFs locally on your PC. Smart placement suggests the hardest spot to crop out, and a Protection Score gauges removal difficulty. Features Brand Kits and EXIF/GPS scrubbing.]]></description>
+    <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=pixelmark</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
