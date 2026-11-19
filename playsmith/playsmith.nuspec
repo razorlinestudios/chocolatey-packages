@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>playsmith</id>
+    <version>1.0.20</version>
+    <packageSourceUrl>https://github.com/razorlinestudios/chocolatey-packages/tree/main/playsmith</packageSourceUrl>
+    <owners>razorlinestudios</owners>
+    <title>PlaySmith</title>
+    <authors>Razorline Studios Ltd</authors>
+    <projectUrl>https://razorlinestudios.co.uk/app.php?slug=playsmith</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/razorlinestudios/chocolatey-packages@main/icons/playsmith.png</iconUrl>
+    <copyright>Copyright (c) 2026 Razorline Studios Ltd</copyright>
+    <licenseUrl>https://razorlinestudios.co.uk/licence.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
+    <docsUrl>https://razorlinestudios.co.uk/app.php?slug=playsmith</docsUrl>
+    <tags>playsmith media video audio vlc player windows11 privacy</tags>
+    <summary>Privacy-first media player for Windows 11 powered by VLC with auto-fix recovery and volume leveling.</summary>
+    <description><![CDATA[PlaySmith is a modern Windows 11 media player engineered on the battle-tested VLC engine. Plays almost every video and music format, discs, and network streams. Features intelligent AutoFix recovery, smart aspect ratio cropping, volume matching, and TV casting.]]></description>
+    <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=playsmith</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
