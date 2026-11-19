@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>songgenix</id>
+    <version>1.0.0</version>
+    <packageSourceUrl>https://github.com/razorlinestudios/chocolatey-packages/tree/main/songgenix</packageSourceUrl>
+    <owners>razorlinestudios</owners>
+    <title>SongGenix</title>
+    <authors>Razorline Studios Ltd</authors>
+    <projectUrl>https://razorlinestudios.co.uk/app.php?slug=songgenix</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/razorlinestudios/chocolatey-packages@main/icons/songgenix.png</iconUrl>
+    <copyright>Copyright (c) 2026 Razorline Studios Ltd</copyright>
+    <licenseUrl>https://razorlinestudios.co.uk/licence.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
+    <docsUrl>https://razorlinestudios.co.uk/app.php?slug=songgenix</docsUrl>
+    <tags>songgenix ai-music music audio synth generator offline creative</tags>
+    <summary>Offline AI music studio that generates full songs and musical backing tracks from natural language descriptions.</summary>
+    <description><![CDATA[SongGenix generates complete musical arrangements, custom beats, backing tracks, and ambient soundscapes locally on your Windows PC. 100% offline, royalty-free, and subscription-free.]]></description>
+    <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=songgenix</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
