@@ -16,7 +16,9 @@
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=picgenix</docsUrl>
     <tags>picgenix ai-art stable-diffusion image-generation offline creative gpu</tags>
     <summary>Private generative AI image creation studio running directly on Windows PC hardware.</summary>
-    <description><![CDATA[PicGenix creates stunning high-resolution artwork and renders locally using SDXL-Lightning and FLUX pipelines. Zero cloud fees, zero subscriptions, complete privacy.]]></description>
+    <description><![CDATA[PicGenix creates stunning high-resolution artwork and renders locally using SDXL-Lightning and FLUX pipelines. Zero cloud fees, zero subscriptions, complete privacy.
+
+Licensing: PicGenix is commercial software and requires a paid license key (£19.99 one-time purchase, 12 months of updates included, online activation required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=picgenix.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=picgenix</releaseNotes>
   </metadata>
   <files>
