@@ -16,7 +16,9 @@
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=songgenix</docsUrl>
     <tags>songgenix ai-music music audio synth generator offline creative</tags>
     <summary>Offline AI music studio that generates full songs and musical backing tracks from natural language descriptions.</summary>
-    <description><![CDATA[SongGenix generates complete musical arrangements, custom beats, backing tracks, and ambient soundscapes locally on your Windows PC. 100% offline, royalty-free, and subscription-free.]]></description>
+    <description><![CDATA[SongGenix generates complete musical arrangements, custom beats, backing tracks, and ambient soundscapes locally on your Windows PC. 100% offline, royalty-free, and subscription-free.
+
+Licensing: SongGenix is commercial software and requires a paid license key (£19.99 one-time purchase, 12 months of updates included, online activation required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=songgenix.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=songgenix</releaseNotes>
   </metadata>
   <files>
