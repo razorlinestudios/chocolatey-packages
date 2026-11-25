@@ -16,7 +16,9 @@
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=rigcheck</docsUrl>
     <tags>rigcheck pc-health benchmark hardware diagnostics temperature windows admin</tags>
     <summary>PC health check for Windows 10 and 11 in plain English, with a score out of 100, clear fixes and honest upgrade advice.</summary>
-    <description><![CDATA[RigCheck gives one clear 0-100 health score covering cooling, storage, memory and more. Every finding says what it means, why it matters and what to do, ranked by priority. Honest upgrade advice on whether more memory, a bigger drive or a new graphics card would actually help. Saves a full PC health report as PDF, Word or Rich Text. Live CPU, graphics, memory and temperature readings with session highs and lows. Full hardware details, all searchable. No adverts, tracking or account. Requires Windows 10 or 11, 64-bit; the .NET runtime is included.]]></description>
+    <description><![CDATA[RigCheck gives one clear 0-100 health score covering cooling, storage, memory and more. Every finding says what it means, why it matters and what to do, ranked by priority. Honest upgrade advice on whether more memory, a bigger drive or a new graphics card would actually help. Saves a full PC health report as PDF, Word or Rich Text. Live CPU, graphics, memory and temperature readings with session highs and lows. Full hardware details, all searchable. No adverts, tracking or account. Requires Windows 10 or 11, 64-bit; the .NET runtime is included.
+
+Licensing: This package installs the Free edition of RigCheck for personal PC health checks (0-100 health score, plain-English fixes, upgrade advice, live sensors, and PDF/Word/RTF reports). Commercial or repair-workshop use requires a paid RigCheck Pro commercial license (£9.99 one-time purchase, 12 months of updates included, online activation; available separately as the `rigcheckpro` package or at https://razorlinestudios.co.uk/app.php?slug=rigcheckpro).]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=rigcheck</releaseNotes>
   </metadata>
   <files>
