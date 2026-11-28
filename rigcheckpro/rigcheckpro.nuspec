@@ -15,8 +15,12 @@
     <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=rigcheckpro</docsUrl>
     <tags>rigcheckpro diagnostics stress-test burnin benchmark hardware repair technician</tags>
-    <summary>Commercial PC hardware diagnostics for IT technicians and repair workshops with self-checking burn-in tests and branded customer reports.</summary>
-    <description><![CDATA[RigCheck Pro is an industrial hardware diagnostic suite for repair workshops and technicians. Gives the likely cause in plain English with evidence and confidence levels. CPU, graphics card, graphics memory and RAM stress tests with automatic thermal alerts. Generates branded customer certificates before and after repair.]]></description>
+    <summary>Plain-English PC diagnostics, Detective Mode, stress tests &amp; branded PDF certs.</summary>
+    <description><![CDATA[Find out why a PC is slow, overheating, crashing, or restarting — with Detective Mode, Ask RigCheck, self-checking stress tests, and branded customer PDF certificates.
+
+Detective Mode & Ask RigCheck: Pick what's wrong (like 'My PC is slow') or type your own question — RigCheck Pro investigates locally and gives you the likely cause in plain English, with a confidence score, real evidence, and clear next steps. Self-Checking Stress & Burn-In Tests: Run 1-minute checks or sustained burn-in tests on the CPU, graphics card, graphics memory (VRAM), and RAM. Every test checks its own results for errors and stops automatically if a part gets too hot. Branded Customer PDF Certificates: Export a clean, one-page diagnostic certificate and full PDF/CSV report featuring your own shop name and logo — ideal for PC repair workshops, system builders, and used-PC buyers or sellers. 0-100 PC Health Score & Before/After Proof: Clear scores for Cooling, Storage, Memory, and Upgrade Readiness, plus a health timeline and Before/After comparisons to prove a repair or upgrade worked.
+
+Licensing: RigCheck Pro is commercial software and requires a paid license key (£9.99 one-time purchase for 1 PC at a time, personal & commercial use included, 1 year of free updates included — keeps working forever after 1 year with optional £4.99/year updates only if wanted, no auto-renewal, online activation and 14-day periodic licence check required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=rigcheckpro.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=rigcheckpro</releaseNotes>
   </metadata>
   <files>
