@@ -15,8 +15,12 @@
     <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=razorfind</docsUrl>
     <tags>razorfind search file-search duplicate-finder desktop-search fast windows</tags>
-    <summary>Whole-drive instant file search engine with results in milliseconds, duplicate finder, and real folder sizes.</summary>
-    <description><![CDATA[RazorFind delivers instant desktop search across whole drives as you type. Background indexing updates in milliseconds. Features duplicate file detection by hash, real folder size analysis, and timeline filters.]]></description>
+    <summary>Whole-drive file search in milliseconds with duplicate finder &amp; folder sizes.</summary>
+    <description><![CDATA[Find any file or folder on your PC the moment you start typing — with millisecond whole-drive search, true duplicate-content detection, real folder sizes, and zero ads or tracking.
+
+Instant Results in Milliseconds: Search entire drives as you type — no more waiting on slow default Windows search. True Duplicate File Finder: Finds identical-content duplicate files (even if they have different filenames) so you can quickly spot and clear wasted space. See Real Folder Sizes: Tick one box to calculate true folder sizes and instantly spot which folders are filling up your drive. Always Up to Date Automatically: Quietly picks up new, renamed, or moved files in the background without slowing your PC down.
+
+Licensing: RazorFind is free to download and use for personal or commercial use — no licence key, no subscription, no adverts, no tracking, and no account required. Requires Windows 10 or 11 (64-bit). Details at https://razorlinestudios.co.uk/app.php?slug=razorfind.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=razorfind</releaseNotes>
   </metadata>
   <files>
