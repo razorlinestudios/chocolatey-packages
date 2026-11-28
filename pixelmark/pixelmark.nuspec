@@ -15,10 +15,12 @@
     <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=pixelmark</docsUrl>
     <tags>pixelmark watermark photo batch branding copyright pdf privacy</tags>
-    <summary>Design, apply and batch-export watermarks on photos and PDFs, with smart placement and a watermark protection score.</summary>
-    <description><![CDATA[PixelMark batch watermarks whole folders of photos and multi-page PDFs locally on your PC. Smart placement suggests the hardest spot to crop out, and a Protection Score gauges removal difficulty. Features Brand Kits and EXIF/GPS scrubbing.
+    <summary>Batch watermark photos &amp; PDFs locally with AI/crop protection &amp; EXIF scrubbing.</summary>
+    <description><![CDATA[Watermark hundreds of photos and PDFs in seconds on your own PC — with AI/crop removal protection, CSV auto-fill, batch resizing, and one-click GPS/EXIF scrubbing.
 
-Licensing: PixelMark is commercial software and requires a paid license key (£9.99 one-time purchase, 12 months of updates included, online activation required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=pixelmark.]]></description>
+Smarter Watermark Protection: Shows you the best spot to place your watermark so people can't easily crop it out or erase it with AI tools — complete with a live Protection Score and a one-click boost. Watermark Whole Folders at Once: Drop in hundreds of photos (including subfolders) and process them all in one go while keeping your exact folder layout intact. Hide Private Info in One Click: Automatically remove hidden GPS locations, camera serial numbers, and hidden preview thumbnails so you never accidentally share your home or client's address. Auto-Fill Names, Dates & Codes: Automatically stamp different text onto each photo (such as client names, product codes, or dates) from a simple spreadsheet (CSV) or the photo's built-in details.
+
+Licensing: PixelMark is commercial software and requires a paid license key (£9.99 one-time purchase for 1 PC at a time, personal & commercial use included, 1 year of free updates included — keeps working forever after 1 year with optional £4.99/year updates only if wanted, no auto-renewal, online activation and 14-day periodic licence check required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=pixelmark.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=pixelmark</releaseNotes>
   </metadata>
   <files>
