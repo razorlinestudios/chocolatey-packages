@@ -15,10 +15,12 @@
     <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=picgenix</docsUrl>
     <tags>picgenix ai-art stable-diffusion image-generation offline creative gpu</tags>
-    <summary>Private generative AI image creation studio running directly on Windows PC hardware.</summary>
-    <description><![CDATA[PicGenix creates stunning high-resolution artwork and renders locally using SDXL-Lightning and FLUX pipelines. Zero cloud fees, zero subscriptions, complete privacy.
+    <summary>Unlimited local AI images with FLUX.2, SDXL, Visual Memory &amp; likeness checks.</summary>
+    <description><![CDATA[Create unlimited AI images on your own PC — with FLUX.2 Klein & SDXL-Lightning, Visual Memory reference reuse, built-in likeness checks, and zero monthly credits.
 
-Licensing: PicGenix is commercial software and requires a paid license key (£19.99 one-time purchase, 12 months of updates included, online activation required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=picgenix.]]></description>
+No Monthly Fees or Credit Limits: Stop paying £20+/month for online AI tools. Generate as many images as you like directly on your own Windows PC with no queues or per-image charges. Reuse the Same Person, Product, Place or Brand: Add reference photos to Visual Memory and insert an @token so your characters, products, and brand style stay consistent across new images. Built-In Likeness & Quality Checks: Automatically checks each finished image locally — including face likeness and visual similarity scores against your reference photos. Two Powerful Local AI Models (One-Click Setup): Switch between SDXL-Lightning for super-fast renders and FLUX.2 Klein for top quality (~25-45 seconds on a 12 GB RTX card). No coding — the app downloads and configures everything in one click.
+
+Licensing: PicGenix is commercial software and requires a paid license key (£19.99 one-time purchase for 1 PC at a time, personal & commercial use included, 1 year of free updates included — keeps working forever after 1 year with optional £9.99/year updates only if wanted, no auto-renewal, online activation and 14-day periodic licence check required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=picgenix.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=picgenix</releaseNotes>
   </metadata>
   <files>
