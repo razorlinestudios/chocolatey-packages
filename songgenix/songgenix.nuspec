@@ -15,10 +15,12 @@
     <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=songgenix</docsUrl>
     <tags>songgenix ai-music music audio synth generator offline creative</tags>
-    <summary>Offline AI music studio that generates full songs and musical backing tracks from natural language descriptions.</summary>
-    <description><![CDATA[SongGenix generates complete musical arrangements, custom beats, backing tracks, and ambient soundscapes locally on your Windows PC. 100% offline, royalty-free, and subscription-free.
+    <summary>Create unlimited AI songs &amp; WAV tracks locally with 30s previews &amp; lyric repair.</summary>
+    <description><![CDATA[Create unlimited full AI songs and backing tracks on your own PC — with 30-second preview expansion, single-line lyric repair, reference track remix/cover, and clean WAV export.
 
-Licensing: SongGenix is commercial software and requires a paid license key (£19.99 one-time purchase, 12 months of updates included, online activation required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=songgenix.]]></description>
+No Monthly Fees or Credit Limits: Create as many full songs, jingles, and backing tracks as you like right on your own PC — powered by open, commercial-friendly AI models (ACE-Step 1.5). 30-Second Preview to Full Song: Test ideas fast as a 30-second preview, then expand your favourite take into a full-length song keeping the exact same voice, tempo, key, and feel. Fix Single Lines Without Starting Over: Spot a lyric you want to change? Edit just that line or choose a time range to regenerate it — without throwing away the rest of the track. Write From a Prompt, Your Own Lyrics, or Remix a Track: Describe a mood or style in plain English and let SongGenix write structured verses and choruses, paste your own lyrics word-for-word, create pure instrumentals, or remix/cover a reference track you own.
+
+Licensing: SongGenix is commercial software and requires a paid license key (£19.99 one-time purchase for 1 PC at a time, personal & commercial use included, 1 year of free updates included — keeps working forever after 1 year with optional £9.99/year updates only if wanted, no auto-renewal, online activation and 14-day periodic licence check required; no free trial and no recurring subscription). Purchase at https://razorlinestudios.co.uk/app.php?slug=songgenix.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=songgenix</releaseNotes>
   </metadata>
   <files>
