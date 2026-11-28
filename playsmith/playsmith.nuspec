@@ -15,8 +15,12 @@
     <projectSourceUrl>https://razorlinestudios.co.uk</projectSourceUrl>
     <docsUrl>https://razorlinestudios.co.uk/app.php?slug=playsmith</docsUrl>
     <tags>playsmith media video audio vlc player windows11 privacy</tags>
-    <summary>Privacy-first media player for Windows 11 powered by VLC with auto-fix recovery and volume leveling.</summary>
-    <description><![CDATA[PlaySmith is a modern Windows 11 media player engineered on the battle-tested VLC engine. Plays almost every video and music format, discs, and network streams. Features intelligent AutoFix recovery, smart aspect ratio cropping, volume matching, and TV casting.]]></description>
+    <summary>Free VLC-powered media player with AutoFix, volume matching &amp; TV casting.</summary>
+    <description><![CDATA[Play almost any video, music file, disc, or stream on Windows 10 & 11 — with smart AutoFix, playlist volume matching, subtitle search, TV casting, and zero ads or tracking.
+
+Plays Almost Anything Straight Out of the Box: Built on the proven VLC engine with everything bundled inside — plays nearly every video and audio format, folders, discs, and network streams with no extra codecs to hunt down. Smart Auto-Settings & AutoFix: Automatically picks the best settings for each file. If a video ever stutters, AutoFix quietly steps in to smooth it out without losing your place. One-Click Volume Matching: Balances the loudness across your playlist so you never get blasted by a loud track or struggle to hear a quiet one. Ask This Video Subtitle Search: Search inside a video's subtitles (SRT/VTT) for any spoken word or phrase and double-click to jump straight to that exact moment.
+
+Licensing: PlaySmith is free to download and use for personal or commercial use — no licence key, no subscription, no adverts, no tracking, and no account required. Requires Windows 10 or 11 (64-bit). Details at https://razorlinestudios.co.uk/app.php?slug=playsmith.]]></description>
     <releaseNotes>https://razorlinestudios.co.uk/app.php?slug=playsmith</releaseNotes>
   </metadata>
   <files>
